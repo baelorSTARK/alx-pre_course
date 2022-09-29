@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "alx"
-#!/bin/bash > school
-echo "school" > school
+echo "School"
+“ALX”
